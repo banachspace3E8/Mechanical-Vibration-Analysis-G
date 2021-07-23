@@ -13,8 +13,7 @@ clear; clc;
 % Clears the screen and workspace for fresh start every time 
 mu = 0.3; 
 % Assume coefficient of kinetic friction between two aluminium surfaces
-%is taken as 
-% 0.3
+%is taken as 0.3
 M = .065;
 % Total mass of the load and the motor is taken as 0.065 kg 
 m0 = 0.018; 
